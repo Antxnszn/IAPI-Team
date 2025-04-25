@@ -53,7 +53,7 @@ function App() {
           <div className="text-[1.3rem] md:text-[1.7rem] font-semibold text-[#7E828B] mb-5 tracking-wider dark:text-white">
           TalentLand Hackathon Micron track 2025 team
           </div>
-          <img src="/IAPI-Team.jpeg" className="w-auto h-[50%] md:rounded-3xl mb-10"/>
+          <img src="/IAPI-Team.jpeg" className="w-auto h-[35%] lg:h-[50%] md:rounded-3xl mb-10"/>
         </div>
       </div>
       <AnimatedTestimonials testimonials={testimonials} autoplay />
